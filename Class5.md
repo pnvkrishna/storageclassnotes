@@ -16,7 +16,7 @@
 ### Private Cloud
 - **Definition:** Cloud infrastructure owned and operated by an enterprise for internal use.
 - **Users:** Different Business Units (BUs) within the enterprise use private cloud resources.
-- **Implementation:** Commonly built using open-source software like **OpenStack** (https://www.openstack.org/)
+- **Implementation:** Commonly built using open-source software like [**OpenStack**](https://www.openstack.org/)
     - **Example:** A company hosting its own cloud instead of using public cloud vendors.
 
 ***

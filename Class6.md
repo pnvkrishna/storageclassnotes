@@ -55,6 +55,9 @@
 - To allow public anonymous access, container access level needs to be changed.
 - Example: Create a container named "shared" and configure public access if needed.
 
+
+[Refer here](https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?tabs=azure-portal) for docs on how to create a storage account.
+
 ***
 
 # Key Differences and Analogies
